@@ -16,3 +16,7 @@ https://wiki.python.org/moin/GlobalInterpreterLock lists some reqirements for re
 TODO:
 * Start writing benchmarks
 * Investigate how Python with GIL handles ML tasks.
+
+### week 5
+* Installed some python distributions
+
