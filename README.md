@@ -20,4 +20,5 @@ TODO:
 ### week 5
 * Installed some python distributions
 * cython ?
+* Docker ?
 
