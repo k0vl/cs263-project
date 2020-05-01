@@ -18,7 +18,13 @@ TODO:
 * Investigate how Python with GIL handles ML tasks.
 
 ### week 5
+* installed Hyper-V
 * Installed some python distributions
-* cython ?
-* Docker ?
 
+#### implementations to test
+* CPython - default implementation, interpreter
+* Jython - compiles to JVM 
+* IronPython - compiles to .NET
+* PyPy - written in Python, jit compiler
+* Stackless Python
+* Cython? Nuitka?
