@@ -28,3 +28,7 @@ TODO:
 * PyPy - written in Python, jit compiler
 * Stackless Python
 * Cython? Nuitka?
+
+### week 6
+* installed docker
+* installed rest of Python implementation on Docker
