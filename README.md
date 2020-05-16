@@ -32,3 +32,11 @@ TODO:
 ### week 6
 * installed docker
 * installed rest of Python implementation on Docker
+
+### week 7 
+* writing code
+* benchmark reference:
+ * https://attractivechaos.github.io/plb/
+ * https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
+ * https://en.wikipedia.org/wiki/Parallel_computing#Algorithmic_methods
+ 
