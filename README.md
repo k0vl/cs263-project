@@ -40,3 +40,7 @@ TODO:
  * https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
  * https://en.wikipedia.org/wiki/Parallel_computing#Algorithmic_methods
  
+ ### week 8
+ * Still reading
+ * not much progress this week
+ 
