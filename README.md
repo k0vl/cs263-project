@@ -16,3 +16,31 @@ https://wiki.python.org/moin/GlobalInterpreterLock lists some reqirements for re
 TODO:
 * Start writing benchmarks
 * Investigate how Python with GIL handles ML tasks.
+
+### week 5
+* installed Hyper-V
+* Installed some python distributions
+
+#### implementations to test
+* CPython - default implementation, interpreter
+* Jython - compiles to JVM 
+* IronPython - compiles to .NET
+* PyPy - written in Python, jit compiler
+* Stackless Python
+* Cython? Nuitka?
+
+### week 6
+* installed docker
+* installed rest of Python implementation on Docker
+
+### week 7 
+* reading about what benchmark program to use
+* benchmark reference:
+ * https://attractivechaos.github.io/plb/
+ * https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
+ * https://en.wikipedia.org/wiki/Parallel_computing#Algorithmic_methods
+ 
+ ### week 8
+ * Still reading
+ * not much progress this week
+ 
