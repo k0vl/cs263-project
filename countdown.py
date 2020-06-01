@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import threading, multiprocessing, timeit
+import threading, timeit
 
 def countdown(n):
     while n > 0:

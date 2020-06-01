@@ -2,3 +2,5 @@ implementations
 tmp
 pypy2
 pypy3
+jython
+.jython_cache
