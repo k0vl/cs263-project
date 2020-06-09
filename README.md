@@ -3,6 +3,12 @@
 ## project vision
 Compare the performance of various Python implementations for multithreaded tasks. Investigate the performance penalty of Python global interpreter lock and its advantages and disadvantages. 
 
+## Running tests
+* install Python2/3, PyPy2/3, Jython, IronPython
+* countdown.py is for CPU bound task, netop.py is for network task, diskop.py is for disk tasks, and sort.py is for quicksort.
+* in diskop.py, disable countdown_read() and associated code when testing IronPython, disable countdown_write_sync() when testing IronPython and Jython. 
+* in netop.py, switch to the commented out header when using Python3. 
+
 ## Progress
 
 ### week 4
