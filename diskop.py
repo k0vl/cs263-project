@@ -27,7 +27,7 @@ if __name__ == "__main__":
     for i in range(5):
         k = 2 ** i
         with open("tmp/{}_thread_test.out".format(k), 'w') as fh:
-            time = timeit.timeit(lambda: run_k_threads(countdown_write, fh, 10000, k), number=1)
+            time = timeit.timeit(lambda: run_k_threads(countdown_write, fh, 1000000, k), number=1)
             print("countdown_write {} threads: {:.6f}".format(k, time))
             sys.stdout.flush()
 
