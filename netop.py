@@ -16,7 +16,7 @@ def run_k_threads(target, n, k):
     [t.join() for t in threads]
 
 if __name__ == "__main__":
-    for i in range(1):
+    for i in range(5):
         k = 2 ** i
         time = timeit.timeit(lambda: run_k_threads(http_conn, 100, k), number=1)
         print("http_conn {} threads: {:.4f}".format(k, time))
